@@ -304,10 +304,11 @@ section.login .registration-form-section .gender {
 
 .pattient-search-form {
     display: flex;
+    justify-content: end;
 }
 
 .pattient-search-form input {
-    width: 100%;
+    width: 60%;
     border: 1px solid #d1d1d1;
     border-radius: 5px;
     box-shadow: none;

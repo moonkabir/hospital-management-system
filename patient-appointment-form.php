@@ -1,4 +1,4 @@
-<?php 
+<!-- <?php 
 session_start();
 include('inc/config.php');
 include('inc/headerwithoutnavwithoutbg.php');
@@ -62,4 +62,4 @@ if(!$_patient_id){
 		</div>
     </div>
 </div>
-<?php include('inc/footerwithoutbg.php'); ?>
+<?php include('inc/footerwithoutbg.php'); ?> -->
